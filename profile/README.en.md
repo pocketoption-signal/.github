@@ -11,7 +11,8 @@
 [Website](https://pocketoption-signal.online) ·
 [Chrome Web Store](https://chromewebstore.google.com/detail/kmikglaokkegcnmiidoboodmbeihjofe) ·
 [Telegram channel](https://t.me/pocketoption_signal_ru) ·
-[Telegram bot](https://t.me/pocketoption_signal_ru_bot)
+[Telegram bot](https://t.me/pocketoption_signal_ru_bot) ·
+[Community chat](https://t.me/pocketoption_signal_chat)
 
 </div>
 
@@ -29,7 +30,7 @@ The project is **completely free**: no affiliate links, no subscription, no paym
 |---|---|---|
 | 🧩 **Browser extension** | A "smart assistant" panel right on pocketoption.com. Chrome and Firefox | ✅ [Chrome Web Store](https://chromewebstore.google.com/detail/kmikglaokkegcnmiidoboodmbeihjofe) |
 | 🖥️ **Windows app** | Always-on-top window with an ON/OFF switch, controls the bot in your browser, auto-updates | 🚧 In development · [releases](https://github.com/pocketoption-signal/windows-releases) |
-| 🤖 **Telegram** | News channel and a bot for users | ✅ [@pocketoption_signal_ru](https://t.me/pocketoption_signal_ru) |
+| 🤖 **Telegram** | News channel, community chat and a bot for users | ✅ [channel](https://t.me/pocketoption_signal_ru) · [chat](https://t.me/pocketoption_signal_chat) · [bot](https://t.me/pocketoption_signal_ru_bot) |
 
 ## Features
 

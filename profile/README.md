@@ -11,7 +11,8 @@
 [Сайт](https://pocketoption-signal.online) ·
 [Chrome Web Store](https://chromewebstore.google.com/detail/kmikglaokkegcnmiidoboodmbeihjofe) ·
 [Telegram-канал](https://t.me/pocketoption_signal_ru) ·
-[Telegram-бот](https://t.me/pocketoption_signal_ru_bot)
+[Telegram-бот](https://t.me/pocketoption_signal_ru_bot) ·
+[Чат сообщества](https://t.me/pocketoption_signal_chat)
 
 </div>
 
@@ -29,7 +30,7 @@ PocketOption Signal помогает анализировать график п�
 |---|---|---|
 | 🧩 **Браузерное расширение** | Панель «умного помощника» прямо на сайте pocketoption.com. Chrome и Firefox | ✅ [Chrome Web Store](https://chromewebstore.google.com/detail/kmikglaokkegcnmiidoboodmbeihjofe) |
 | 🖥️ **Приложение для Windows** | Окно поверх всех приложений с кнопкой ВКЛ/ВЫКЛ, управление ботом в браузере, автообновление | 🚧 В разработке · [релизы](https://github.com/pocketoption-signal/windows-releases) |
-| 🤖 **Telegram** | Канал с новостями и бот для пользователей | ✅ [@pocketoption_signal_ru](https://t.me/pocketoption_signal_ru) |
+| 🤖 **Telegram** | Канал с новостями, чат для общения и бот для пользователей | ✅ [канал](https://t.me/pocketoption_signal_ru) · [чат](https://t.me/pocketoption_signal_chat) · [бот](https://t.me/pocketoption_signal_ru_bot) |
 
 ## Возможности
 
