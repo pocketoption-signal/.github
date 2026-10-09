@@ -29,7 +29,7 @@ PocketOption Signal помогает анализировать график п�
 | Продукт | Описание | Статус |
 |---|---|---|
 | 🧩 **Браузерное расширение** | Панель «умного помощника» прямо на сайте pocketoption.com. Chrome и Firefox | ✅ [Chrome Web Store](https://chromewebstore.google.com/detail/kmikglaokkegcnmiidoboodmbeihjofe) |
-| 🖥️ **Приложение для Windows** | Окно поверх всех приложений с кнопкой ВКЛ/ВЫКЛ, управление ботом в браузере, автообновление | 🚧 В разработке · [релизы](https://github.com/pocketoption-signal/windows-releases) |
+| 🖥️ **Приложение для Windows** | Окно поверх всех приложений с кнопкой ВКЛ/ВЫКЛ, управление ботом в браузере, автообновление | ✅ [скачать](https://github.com/pocketoption-signal/windows-releases/releases/latest) |
 | 🤖 **Telegram** | Канал с новостями, чат для общения и бот для пользователей | ✅ [канал](https://t.me/pocketoption_signal_ru) · [чат](https://t.me/pocketoption_signal_chat) · [бот](https://t.me/pocketoption_signal_ru_bot) |
 
 ## Возможности

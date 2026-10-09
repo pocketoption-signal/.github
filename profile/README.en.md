@@ -29,7 +29,7 @@ The project is **completely free**: no affiliate links, no subscription, no paym
 | Product | Description | Status |
 |---|---|---|
 | 🧩 **Browser extension** | A "smart assistant" panel right on pocketoption.com. Chrome and Firefox | ✅ [Chrome Web Store](https://chromewebstore.google.com/detail/kmikglaokkegcnmiidoboodmbeihjofe) |
-| 🖥️ **Windows app** | Always-on-top window with an ON/OFF switch, controls the bot in your browser, auto-updates | 🚧 In development · [releases](https://github.com/pocketoption-signal/windows-releases) |
+| 🖥️ **Windows app** | Always-on-top window with an ON/OFF switch, controls the bot in your browser, auto-updates | ✅ [download](https://github.com/pocketoption-signal/windows-releases/releases/latest) |
 | 🤖 **Telegram** | News channel, community chat and a bot for users | ✅ [channel](https://t.me/pocketoption_signal_ru) · [chat](https://t.me/pocketoption_signal_chat) · [bot](https://t.me/pocketoption_signal_ru_bot) |
 
 ## Features
